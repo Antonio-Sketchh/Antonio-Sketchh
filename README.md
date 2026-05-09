@@ -4,6 +4,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Antonio+Zavala+%7C+Backend+Developer;Desarrollo+con+.NET+%2B+ASP.NET+Core;Aplicaciones+m%C3%B3viles+con+.NET+MAUI;Sistemas+en+producci%C3%B3n+real+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Antonio-Sketchh&style=for-the-badge&color=6e40c9&label=VISITAS+AL+PERFIL" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/+5%2C000%20notificaciones%2Fmes-automatizadas%20al%20100%25-6e40c9?style=flat-square" height="22"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/+14%20regiones-M%C3%A9xico%20%26%20Centroam%C3%A9rica-6e40c9?style=flat-square" height="22"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/+400%20usuarios%20activos-sistema%20en%20producci%C3%B3n-6e40c9?style=flat-square" height="22"/>
+</div>
+
 ###
 
 <div align="center">
