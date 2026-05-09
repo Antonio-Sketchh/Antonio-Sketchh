@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=6e40c9&height=100&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header&reversal=false"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Antonio+Zavala+%7C+Backend+Developer;Desarrollo+con+.NET+%2B+ASP.NET+Core;Aplicaciones+m%C3%B3viles+con+.NET+MAUI;Sistemas+en+producci%C3%B3n+real+%F0%9F%9A%80" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="linux tux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" alt="linux tux"/>
 </div>
 
 ###
@@ -44,6 +44,4 @@
   </a>
 </div>
 
-###
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Antonio%20Zavala&fontColor=ffffff&fontSize=30&fontAlignY=70&desc=Backend%20.NET%20Developer&descAlignY=90&descAlign=67"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer&reversal=true"/>
