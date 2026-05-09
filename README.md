@@ -7,13 +7,13 @@
 ###
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="linux tux"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,visualstudio,vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure" height="50" />
   <br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server" />
   &nbsp;&nbsp;&nbsp;
@@ -46,10 +46,4 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antonio-Sketchh/Antonio-Sketchh/snake-output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antonio-Sketchh/Antonio-Sketchh/snake-output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Antonio-Sketchh/Antonio-Sketchh/snake-output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=6e40c9&height=100&section=footer&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Antonio%20Zavala&fontColor=ffffff&fontSize=30&fontAlignY=70&desc=Backend%20.NET%20Developer&descAlignY=90&descAlign=67"/>
