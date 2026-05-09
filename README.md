@@ -1,61 +1,44 @@
-<h1 align="center">Hi, I'm Antonio Zavala 👋</h1>
+<h1 align="center">Hey 👋 ¿Qué tal?</h1>
 
-<p align="center">
-  <b>.NET & MAUI Mobile Developer</b> · Building real-world apps with C# and SQL Server
-</p>
+###
 
-<p align="center">
-  <a href="https://github.com/Antonio-Sketchh">
-    <img src="https://img.shields.io/badge/GitHub-Antonio--Sketchh-181717?style=flat&logo=github" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Antonio%20Zavala-0A66C2?style=flat&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/.NET-MAUI-512BD4?style=flat&logo=dotnet" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visual studio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+</div>
 
----
+###
 
-### About me
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</div>
 
-I'm a junior .NET developer focused on **backend development** and **cross-platform mobile apps** with .NET MAUI.  
-I enjoy turning business logic into clean, functional software — from database-driven APIs to native mobile experiences.
+###
 
-- Currently working with **.NET MAUI**, **C#**, and **SQL Server**
-- Interested in enterprise apps and mobile solutions
-- Always improving: one commit at a time
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Antonio-Sketchh&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Antonio-Sketchh&theme=dracula&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy graph" />
+</div>
 
----
+###
 
-### Tech Stack
-
-| Area | Technologies |
-|------|-------------|
-| Mobile | .NET MAUI, Xamarin |
-| Backend | C#, .NET, REST APIs |
-| Database | SQL Server, T-SQL, Stored Procedures |
-| Tools | Git, Visual Studio, VS Code |
-
----
-
-### Featured Projects
-
-- **[InventarioApp](https://github.com/Antonio-Sketchh/InventarioApp)** — Inventory management app built with C# and SQL Server
-- **[astro-dev](https://github.com/Antonio-Sketchh/astro-dev)** — Personal web project with Astro framework
-- **[plantillaPortafolio](https://github.com/Antonio-Sketchh/plantillaPortafolio)** — Portfolio template built with CSS
-
----
-
-### Contact
-
-- Email: antoniozavalaserrano43@gmail.com  
-- LinkedIn: *(coming soon)*
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antonio-Sketchh&show_icons=true&theme=dark&hide_border=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Sketchh&layout=compact&theme=dark&hide_border=true" height="140"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antonio-Sketchh/Antonio-Sketchh/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antonio-Sketchh/Antonio-Sketchh/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Antonio-Sketchh/Antonio-Sketchh/pacman-output/pacman-contribution-graph.svg">
+</picture>
